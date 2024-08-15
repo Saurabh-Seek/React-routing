@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+nav{
+   display: flex;
+    justify-content:space-between;
+    list-style-type: none;
+    text-decoration: none;
+    margin-top: 50px;
+    margin-left: 20px;
+    flex-direction: column;
+    gap: 50px;
+}
+h1{
+   
+}
+
+.First{
+    width: 20%;
+font-size: large;
+font-weight: 900;    
+}
+.Divoce{
+    display: flex;
+    height: 100%;
+    
+}
+
+.Second{
+   margin-top: auto;
+    width: 80%;
+    text-align: center
+}
